@@ -1,0 +1,14 @@
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\bin\Debug\net7.0\FinalSocialMediaAppExample.exe
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\bin\Debug\net7.0\FinalSocialMediaAppExample.deps.json
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\bin\Debug\net7.0\FinalSocialMediaAppExample.runtimeconfig.json
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\bin\Debug\net7.0\FinalSocialMediaAppExample.dll
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\bin\Debug\net7.0\FinalSocialMediaAppExample.pdb
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\obj\Debug\net7.0\FinalSocialMediaAppExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\obj\Debug\net7.0\FinalSocialMediaAppExample.AssemblyInfoInputs.cache
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\obj\Debug\net7.0\FinalSocialMediaAppExample.AssemblyInfo.cs
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\obj\Debug\net7.0\FinalSocialMediaAppExample.csproj.CoreCompileInputs.cache
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\obj\Debug\net7.0\FinalSocialMediaAppExample.dll
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\obj\Debug\net7.0\refint\FinalSocialMediaAppExample.dll
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\obj\Debug\net7.0\FinalSocialMediaAppExample.pdb
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\obj\Debug\net7.0\FinalSocialMediaAppExample.genruntimeconfig.cache
+C:\Users\pon2a\OneDrive\Desktop\MySubject\1_2023\MDT211_Computer Programming for Media II\FinalProject\FinalSocialMediaAppExample\obj\Debug\net7.0\ref\FinalSocialMediaAppExample.dll
